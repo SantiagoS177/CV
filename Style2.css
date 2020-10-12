@@ -1,0 +1,19 @@
+﻿body {
+    background-color: aquamarine;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    border-color: gray;
+    width: 20%;
+}
+
+h1 {
+    color: #66BFBF
+}
+
+h3 {
+    color: #66BFBF
+}
